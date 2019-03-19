@@ -1,0 +1,26 @@
+{
+  "name": "fb-utils-libs",
+  "authors": [
+    "Isaac Nadar <isaac.nadar@freightbro.com>"
+  ],
+  "description": "packaged amcharts, ckeditor and jexcel",
+  "main": [
+    "jquery.jexcel.css",
+    "jquery.jcalendar.css",
+    "core.js",
+    "ckeditor.js",
+    "chart.js",
+    "core.js",
+    "jquery.jcalendar.js",
+    "jquery.jexcel.js"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
