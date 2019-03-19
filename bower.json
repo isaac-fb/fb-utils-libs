@@ -7,10 +7,7 @@
   "main": [
     "jquery.jexcel.css",
     "jquery.jcalendar.css",
-    "core.js",
     "ckeditor.js",
-    "chart.js",
-    "core.js",
     "jquery.jcalendar.js",
     "jquery.jexcel.js"
   ],
